@@ -2,7 +2,7 @@ Shor's Algorithm Implementation for YQuantum 2025 Hackathon
 This document details the implementation of Shor's quantum algorithm for factoring large semiprime integers, developed for the YQuantum 2025 Hackathon using the Quantum Rings SDK.
 
 1. Code
-Repository: [Link to your GitHub Repository Here] (Please replace this with the actual link where you host the final code).
+Repository: [](https://github.com/Ryukijano/Quantum-bits-YQuantum-2025)].
 
 Description: The provided Python script implements Shor's algorithm targeting the QuantumRingsLib SDK (v0.9.0 was used during development) and the scarlet_quantum_rings backend simulator.
 
