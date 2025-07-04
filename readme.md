@@ -1,6 +1,6 @@
-UPDATE!!!!: THis submission won us the first prize as Virtual Participants!!! ![image](https://github.com/user-attachments/assets/2e9f8236-2d6b-49e5-80b1-be2e2eead25b)
+UPDATE!!!!: THis submission won us the first prize as Virtual Participants!!! 🥳🥳🥳🥳 
 
-
+![image](https://github.com/user-attachments/assets/2e9f8236-2d6b-49e5-80b1-be2e2eead25b)
 
 Shor's Algorithm Implementation for YQuantum 2025 Hackathon
 
