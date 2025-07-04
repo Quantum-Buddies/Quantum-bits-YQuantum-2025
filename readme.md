@@ -1,4 +1,9 @@
+UPDATE!!!!: THis submission won us the first prize as Virtual Participants!!! ![image](https://github.com/user-attachments/assets/2e9f8236-2d6b-49e5-80b1-be2e2eead25b)
+
+
+
 Shor's Algorithm Implementation for YQuantum 2025 Hackathon
+
 This document details the implementation of Shor's quantum algorithm for factoring large semiprime integers, developed for the YQuantum 2025 Hackathon using the Quantum Rings SDK.
 
 1. Code
